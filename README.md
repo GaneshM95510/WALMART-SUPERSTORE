@@ -1,6 +1,13 @@
 # WALMART-SUPERSTORE
-The Walmart Superstore wants to analyze its sales data to gain insights into its 
-performance and identify opportunities for growth. The company has a vast amount of 
-sales data, including information on products, customers, stores, and transactions. The 
-main objective is to extract meaningful insights from this data to analyse the overall sales 
-of walmart superstore.
+
+1) Data modelling: Learned how to create data models that enable effective analysis, including how to define relationships between tables and calculate measures. 
+ 
+2) Data visualization: Experienced how to create compelling and interactive visualizations using Power BI, including how to create charts, graphs, and dashboards that effectively communicate insights. 
+ 
+3) Report development: developed reports using Power BI, including how to design report layouts, format data, and create interactive filters. 
+ 
+4) Data integration:  Hand on experience in integrate data from multiple sources into Power BI, including how to use Power Query to transform and clean data. 
+ 
+5) Business solution: Developed a better understanding of how businesses like Walmart operate and how data analysis can support business decision-making. 
+
+6) Problem-solving: identified business problems and use data analysis techniques to develop solutions, including how to use Power BI to analyse sales trends and identify areas for improvement. 
