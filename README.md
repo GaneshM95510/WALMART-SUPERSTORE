@@ -10,4 +10,4 @@
  
 5) Business solution: Developed a better understanding of how businesses like Walmart operate and how data analysis can support business decision-making. 
 
-6) Problem-solving: identified business problems and use data analysis techniques to develop solutions, including how to use Power BI to analyse sales trends and identify areas for improvement. 
+6) Problem-solving: Identified business problems and use data analysis techniques to develop solutions, including how to use Power BI to analyse sales trends and identify areas for improvement. 
